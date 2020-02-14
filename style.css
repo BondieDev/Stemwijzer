@@ -8,7 +8,7 @@ html {
 
 #main {
 	background-color: white;
-	width: 80%;
+	width: 77%;
 	text-align: center;
 	display: block;
 	margin: auto;
@@ -17,4 +17,13 @@ html {
 
 h3 {
 	height: 1px;
+}
+
+#sub {
+	background-color: #33CCFF;
+	width: 100%;
+	height: 450px;
+	display: inline-block;
+	display: block;
+	margin-top: 60%;
 }
